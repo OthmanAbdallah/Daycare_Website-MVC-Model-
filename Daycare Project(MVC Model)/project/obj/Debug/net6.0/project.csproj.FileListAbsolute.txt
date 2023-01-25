@@ -1,0 +1,122 @@
+C:\Users\Othman\source\repos\project\project\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Othman\source\repos\project\project\bin\Debug\net6.0\appsettings.json
+C:\Users\Othman\source\repos\project\project\bin\Debug\net6.0\project.staticwebassets.runtime.json
+C:\Users\Othman\source\repos\project\project\bin\Debug\net6.0\project.exe
+C:\Users\Othman\source\repos\project\project\bin\Debug\net6.0\project.deps.json
+C:\Users\Othman\source\repos\project\project\bin\Debug\net6.0\project.runtimeconfig.json
+C:\Users\Othman\source\repos\project\project\bin\Debug\net6.0\project.dll
+C:\Users\Othman\source\repos\project\project\bin\Debug\net6.0\project.pdb
+C:\Users\Othman\source\repos\project\project\obj\Debug\net6.0\project.csproj.AssemblyReference.cache
+C:\Users\Othman\source\repos\project\project\obj\Debug\net6.0\project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Othman\source\repos\project\project\obj\Debug\net6.0\project.AssemblyInfoInputs.cache
+C:\Users\Othman\source\repos\project\project\obj\Debug\net6.0\project.AssemblyInfo.cs
+C:\Users\Othman\source\repos\project\project\obj\Debug\net6.0\project.csproj.CoreCompileInputs.cache
+C:\Users\Othman\source\repos\project\project\obj\Debug\net6.0\project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Othman\source\repos\project\project\obj\Debug\net6.0\project.RazorAssemblyInfo.cache
+C:\Users\Othman\source\repos\project\project\obj\Debug\net6.0\project.RazorAssemblyInfo.cs
+C:\Users\Othman\source\repos\project\project\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Othman\source\repos\project\project\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Othman\source\repos\project\project\obj\Debug\net6.0\scopedcss\bundle\project.styles.css
+C:\Users\Othman\source\repos\project\project\obj\Debug\net6.0\scopedcss\projectbundle\project.bundle.scp.css
+C:\Users\Othman\source\repos\project\project\obj\Debug\net6.0\project.dll
+C:\Users\Othman\source\repos\project\project\obj\Debug\net6.0\refint\project.dll
+C:\Users\Othman\source\repos\project\project\obj\Debug\net6.0\project.pdb
+C:\Users\Othman\source\repos\project\project\obj\Debug\net6.0\project.genruntimeconfig.cache
+C:\Users\Othman\source\repos\project\project\obj\Debug\net6.0\ref\project.dll
+C:\Users\Othman\source\repos\project\project\obj\Debug\net6.0\scopedcss\Views\Shared\_HomeLayout.cshtml.rz.scp.css
+C:\Users\Othman\source\repos\project\project\obj\Debug\net6.0\scopedcss\Views\Shared\_AboutLayout.cshtml.rz.scp.css
+C:\Users\Othman\Desktop\project\project\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Othman\Desktop\project\project\bin\Debug\net6.0\appsettings.json
+C:\Users\Othman\Desktop\project\project\bin\Debug\net6.0\project.staticwebassets.runtime.json
+C:\Users\Othman\Desktop\project\project\bin\Debug\net6.0\project.exe
+C:\Users\Othman\Desktop\project\project\bin\Debug\net6.0\project.deps.json
+C:\Users\Othman\Desktop\project\project\bin\Debug\net6.0\project.runtimeconfig.json
+C:\Users\Othman\Desktop\project\project\bin\Debug\net6.0\project.dll
+C:\Users\Othman\Desktop\project\project\bin\Debug\net6.0\project.pdb
+C:\Users\Othman\Desktop\project\project\obj\Debug\net6.0\project.csproj.AssemblyReference.cache
+C:\Users\Othman\Desktop\project\project\obj\Debug\net6.0\project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Othman\Desktop\project\project\obj\Debug\net6.0\project.AssemblyInfoInputs.cache
+C:\Users\Othman\Desktop\project\project\obj\Debug\net6.0\project.AssemblyInfo.cs
+C:\Users\Othman\Desktop\project\project\obj\Debug\net6.0\project.csproj.CoreCompileInputs.cache
+C:\Users\Othman\Desktop\project\project\obj\Debug\net6.0\project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Othman\Desktop\project\project\obj\Debug\net6.0\project.RazorAssemblyInfo.cache
+C:\Users\Othman\Desktop\project\project\obj\Debug\net6.0\project.RazorAssemblyInfo.cs
+C:\Users\Othman\Desktop\project\project\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Othman\Desktop\project\project\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Othman\Desktop\project\project\obj\Debug\net6.0\scopedcss\Views\Shared\_AboutLayout.cshtml.rz.scp.css
+C:\Users\Othman\Desktop\project\project\obj\Debug\net6.0\scopedcss\Views\Shared\_HomeLayout.cshtml.rz.scp.css
+C:\Users\Othman\Desktop\project\project\obj\Debug\net6.0\scopedcss\bundle\project.styles.css
+C:\Users\Othman\Desktop\project\project\obj\Debug\net6.0\scopedcss\projectbundle\project.bundle.scp.css
+C:\Users\Othman\Desktop\project\project\obj\Debug\net6.0\project.dll
+C:\Users\Othman\Desktop\project\project\obj\Debug\net6.0\refint\project.dll
+C:\Users\Othman\Desktop\project\project\obj\Debug\net6.0\project.pdb
+C:\Users\Othman\Desktop\project\project\obj\Debug\net6.0\project.genruntimeconfig.cache
+C:\Users\Othman\Desktop\project\project\obj\Debug\net6.0\ref\project.dll
+C:\Users\Othman\Desktop\project\project\obj\Debug\net6.0\scopedcss\Views\Shared\_Header.cshtml.rz.scp.css
+C:\Users\Othman\Desktop\project\project\obj\Debug\net6.0\scopedcss\Views\Shared\_Footer.cshtml.rz.scp.css
+C:\Users\Othman\Desktop\project\project\obj\Debug\net6.0\scopedcss\Views\Shared\_RegisterLayout.cshtml.rz.scp.css
+C:\Users\reems\source\repos\project phase 1\project\project\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\reems\source\repos\project phase 1\project\project\bin\Debug\net6.0\appsettings.json
+C:\Users\reems\source\repos\project phase 1\project\project\bin\Debug\net6.0\project.staticwebassets.runtime.json
+C:\Users\reems\source\repos\project phase 1\project\project\bin\Debug\net6.0\project.exe
+C:\Users\reems\source\repos\project phase 1\project\project\bin\Debug\net6.0\project.deps.json
+C:\Users\reems\source\repos\project phase 1\project\project\bin\Debug\net6.0\project.runtimeconfig.json
+C:\Users\reems\source\repos\project phase 1\project\project\bin\Debug\net6.0\project.dll
+C:\Users\reems\source\repos\project phase 1\project\project\bin\Debug\net6.0\project.pdb
+C:\Users\reems\source\repos\project phase 1\project\project\obj\Debug\net6.0\project.csproj.AssemblyReference.cache
+C:\Users\reems\source\repos\project phase 1\project\project\obj\Debug\net6.0\project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reems\source\repos\project phase 1\project\project\obj\Debug\net6.0\project.AssemblyInfoInputs.cache
+C:\Users\reems\source\repos\project phase 1\project\project\obj\Debug\net6.0\project.AssemblyInfo.cs
+C:\Users\reems\source\repos\project phase 1\project\project\obj\Debug\net6.0\project.csproj.CoreCompileInputs.cache
+C:\Users\reems\source\repos\project phase 1\project\project\obj\Debug\net6.0\project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\reems\source\repos\project phase 1\project\project\obj\Debug\net6.0\project.RazorAssemblyInfo.cache
+C:\Users\reems\source\repos\project phase 1\project\project\obj\Debug\net6.0\project.RazorAssemblyInfo.cs
+C:\Users\reems\source\repos\project phase 1\project\project\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\reems\source\repos\project phase 1\project\project\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\reems\source\repos\project phase 1\project\project\obj\Debug\net6.0\scopedcss\Views\Shared\_AboutLayout.cshtml.rz.scp.css
+C:\Users\reems\source\repos\project phase 1\project\project\obj\Debug\net6.0\scopedcss\Views\Shared\_Footer.cshtml.rz.scp.css
+C:\Users\reems\source\repos\project phase 1\project\project\obj\Debug\net6.0\scopedcss\Views\Shared\_Header.cshtml.rz.scp.css
+C:\Users\reems\source\repos\project phase 1\project\project\obj\Debug\net6.0\scopedcss\Views\Shared\_HomeLayout.cshtml.rz.scp.css
+C:\Users\reems\source\repos\project phase 1\project\project\obj\Debug\net6.0\scopedcss\Views\Shared\_RegisterLayout.cshtml.rz.scp.css
+C:\Users\reems\source\repos\project phase 1\project\project\obj\Debug\net6.0\scopedcss\bundle\project.styles.css
+C:\Users\reems\source\repos\project phase 1\project\project\obj\Debug\net6.0\scopedcss\projectbundle\project.bundle.scp.css
+C:\Users\reems\source\repos\project phase 1\project\project\obj\Debug\net6.0\project.dll
+C:\Users\reems\source\repos\project phase 1\project\project\obj\Debug\net6.0\refint\project.dll
+C:\Users\reems\source\repos\project phase 1\project\project\obj\Debug\net6.0\project.pdb
+C:\Users\reems\source\repos\project phase 1\project\project\obj\Debug\net6.0\project.genruntimeconfig.cache
+C:\Users\reems\source\repos\project phase 1\project\project\obj\Debug\net6.0\ref\project.dll
+C:\Users\Othman\Desktop\project phase 1\project\project\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Othman\Desktop\project phase 1\project\project\bin\Debug\net6.0\appsettings.json
+C:\Users\Othman\Desktop\project phase 1\project\project\bin\Debug\net6.0\project.staticwebassets.runtime.json
+C:\Users\Othman\Desktop\project phase 1\project\project\bin\Debug\net6.0\project.exe
+C:\Users\Othman\Desktop\project phase 1\project\project\bin\Debug\net6.0\project.deps.json
+C:\Users\Othman\Desktop\project phase 1\project\project\bin\Debug\net6.0\project.runtimeconfig.json
+C:\Users\Othman\Desktop\project phase 1\project\project\bin\Debug\net6.0\project.dll
+C:\Users\Othman\Desktop\project phase 1\project\project\bin\Debug\net6.0\project.pdb
+C:\Users\Othman\Desktop\project phase 1\project\project\obj\Debug\net6.0\project.csproj.AssemblyReference.cache
+C:\Users\Othman\Desktop\project phase 1\project\project\obj\Debug\net6.0\project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Othman\Desktop\project phase 1\project\project\obj\Debug\net6.0\project.AssemblyInfoInputs.cache
+C:\Users\Othman\Desktop\project phase 1\project\project\obj\Debug\net6.0\project.AssemblyInfo.cs
+C:\Users\Othman\Desktop\project phase 1\project\project\obj\Debug\net6.0\project.csproj.CoreCompileInputs.cache
+C:\Users\Othman\Desktop\project phase 1\project\project\obj\Debug\net6.0\project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Othman\Desktop\project phase 1\project\project\obj\Debug\net6.0\project.RazorAssemblyInfo.cache
+C:\Users\Othman\Desktop\project phase 1\project\project\obj\Debug\net6.0\project.RazorAssemblyInfo.cs
+C:\Users\Othman\Desktop\project phase 1\project\project\obj\Debug\net6.0\staticwebassets\msbuild.project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Othman\Desktop\project phase 1\project\project\obj\Debug\net6.0\staticwebassets\msbuild.build.project.props
+C:\Users\Othman\Desktop\project phase 1\project\project\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.project.props
+C:\Users\Othman\Desktop\project phase 1\project\project\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.project.props
+C:\Users\Othman\Desktop\project phase 1\project\project\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Othman\Desktop\project phase 1\project\project\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Othman\Desktop\project phase 1\project\project\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Othman\Desktop\project phase 1\project\project\obj\Debug\net6.0\scopedcss\Views\Shared\_AboutLayout.cshtml.rz.scp.css
+C:\Users\Othman\Desktop\project phase 1\project\project\obj\Debug\net6.0\scopedcss\Views\Shared\_Footer.cshtml.rz.scp.css
+C:\Users\Othman\Desktop\project phase 1\project\project\obj\Debug\net6.0\scopedcss\Views\Shared\_Header.cshtml.rz.scp.css
+C:\Users\Othman\Desktop\project phase 1\project\project\obj\Debug\net6.0\scopedcss\Views\Shared\_HomeLayout.cshtml.rz.scp.css
+C:\Users\Othman\Desktop\project phase 1\project\project\obj\Debug\net6.0\scopedcss\Views\Shared\_RegisterLayout.cshtml.rz.scp.css
+C:\Users\Othman\Desktop\project phase 1\project\project\obj\Debug\net6.0\scopedcss\bundle\project.styles.css
+C:\Users\Othman\Desktop\project phase 1\project\project\obj\Debug\net6.0\scopedcss\projectbundle\project.bundle.scp.css
+C:\Users\Othman\Desktop\project phase 1\project\project\obj\Debug\net6.0\project.dll
+C:\Users\Othman\Desktop\project phase 1\project\project\obj\Debug\net6.0\refint\project.dll
+C:\Users\Othman\Desktop\project phase 1\project\project\obj\Debug\net6.0\project.pdb
+C:\Users\Othman\Desktop\project phase 1\project\project\obj\Debug\net6.0\project.genruntimeconfig.cache
+C:\Users\Othman\Desktop\project phase 1\project\project\obj\Debug\net6.0\ref\project.dll
